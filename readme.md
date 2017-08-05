@@ -1,5 +1,5 @@
 形似 GRE 单词对
-|    word		| meaning	|
-| ------------- | ---------	|
-| sartorial		|  12 		|
-| sardonic		|  32 		|
+Word  | Meaning |
+--------- | --------|
+sartorial | 表格单元 |
+sardonic | 表格单元 |
