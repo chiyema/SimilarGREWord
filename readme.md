@@ -1,6 +1,17 @@
 形似 GRE 单词对
 
-| 表头1  | 表头2|
+| Word 1  | Word 2|
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| sartorial  | sardonic  |
+| immure  | inure  |
+| penurious | pecunious |
+| lethargic | lethal |
+| confound | compound |
+| inimical | inimical |
+| excoriate | excruciate |
+| ingenuous | ingenious |
+| indigent | indigenous |
+| factitious | factious |
+| abrogate | arrogate |
+| hauteur | rancouteur |
+| venial | venal | veinal |
