@@ -58,6 +58,7 @@
 | raucous | rancorous |
 | agonize | antagonize |
 | vociferous | voracious |
+| veracious | voracious |
 | ponderous | ponderable |
 | catalyst | cataclysm |
 | credulous | credible |
@@ -65,3 +66,17 @@
 | mendicant | mendacity |
 | querulous | garrulous |
 | ludicrous | lucrative |
+| levity | brevity |
+| exoteric | esoteric|
+| surfeit | forfeit |
+| foray | forage |
+| clout | flout |
+| impudent | imprudent |
+| beserk | besmirch |
+| soporific | sporadic |
+| synoptic | hypnotic |
+| umbrage | upbraid |
+| salubrious | salutary |
+| aspersion | aversion |
+| clique | oblique |
+| insidious | invidious |
