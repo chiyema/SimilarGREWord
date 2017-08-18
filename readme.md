@@ -8,6 +8,7 @@
 | acidulous | assiduous |
 | admonition | admonish |
 | affronted | effrontary |
+| aggrandize | aggravate |
 | agonize | antagonize |
 | aisle | isle |
 | alacrity | celerity |
@@ -16,6 +17,8 @@
 | altar | alter |
 | amend | ament |
 | amendable | amenable |
+| amnesty | travesty |
+| amnesty | enmity | 
 | ancillary | auxiliary |
 | apostate | apostle |
 | appeal | appall |
@@ -45,12 +48,16 @@
 | confound | compound |
 | confidant | confident |
 | copious | pious |
+| contemporaneous | extemporaneous |
 | council | counsel |
 | credulous | credible |
-| defuse | diffuse | 
+| defuse | diffuse |
+| deprciate | deprecate | 
 | demure | demur |
+| deplete | replete |
 | denouncement | denouement |
 | defer | deter |
+| deplete | replete| 
 | dependent | dependant |
 | deprecate | depreciate |
 | devise | demise |
@@ -65,16 +72,21 @@
 | excerbate | exasperate |
 | excoriate | excruciate |
 | exoteric | esoteric|
+| expatiate | expiate |
 | factitious | factious |
 | faint | feint |
 | fester | fetter |
 | flair | flare |
 | flaunt | flout |
+| flaunt | flout
 | foray | forage |
-| forebear | forbear | 
+| forebear | forbear |
+| gambol | gamble |
 | hangar | hanger |
 | hauteur | rancouteur |
 | hoard | horde |
+| hoard | hoary |
+| hypothetical | hypocritical |
 | imminent | eminent |
 | immure | inure |
 | indigent | indigenous |
@@ -86,6 +98,7 @@
 | insolent | insolvent |
 | innuendo | inundate |
 | inveigh | inveigle |
+| liable | labile |
 | lethargic | lethal |
 | levity | brevity |
 | loath | sloth |
@@ -103,6 +116,7 @@
 | persecute | prosecute |
 | perspicacious| perspicuous |
 | ponderous | ponderable |
+| portentate | potentous |
 | prophesy | prophecy |
 | querulous | garrulous |
 | rancorous | rapturous |
@@ -112,6 +126,7 @@
 | rationale | rationalize |
 | remiss | remise |
 | reverend | reverent |
+| salacious | sagacious |
 | salubrious | salutary |
 | sartorial | sardonic	|
 | serene | serendipity |
@@ -119,6 +134,7 @@
 | shear | sheer |
 | soporific | sporadic |
 | stationary | stationery |
+| stood(stand) | stoop |
 | succinct | succumb |
 | surfeit | forfeit |
 | synoptic | hypnotic |
