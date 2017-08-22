@@ -1,4 +1,4 @@
-形似 GRE 单词对 (人肉积累，不断更新)
+形似 GRE 单词对 (人肉积累，不再更新)
 
 | Word 1 | Word 2|
 | ------------- | ------------- |
@@ -23,6 +23,7 @@
 | apostate | apostle |
 | appeal | appall |
 | appraise | apprise |
+| arrant | errant |
 | arcane | askance |
 | arcane | archaic |
 | ascent | assent |
@@ -38,13 +39,13 @@
 | bridal | bridle |
 | callow | callous |
 | calvary | cavalry |
-| capital | capitol |
+| capital | **capitol** |
 | clique | oblique |
 | clout | flout |
 | clout | rout |
 | eclectic | eccentric |
 | catalyst | cataclysm |
-| chafe | chaff |
+| chafe | **chaff** |
 | confound | compound |
 | confidant | confident |
 | copious | pious |
@@ -52,11 +53,10 @@
 | council | counsel |
 | credulous | credible |
 | defuse | diffuse |
-| deprciate | deprecate | 
 | demure | demur |
 | deplete | replete |
-| denouncement | denouement |
-| defer | deter |
+| **denouncement** | denouement |
+| **defer** | **deter** |
 | deplete | replete| 
 | dependent | dependant |
 | deprecate | depreciate |
@@ -72,14 +72,13 @@
 | excerbate | exasperate |
 | excoriate | excruciate |
 | exoteric | esoteric|
-| expatiate | expiate |
+| **expatiate** | **expiate** |
 | factitious | factious |
 | faint | feint |
-| fester | fetter |
+| **fester** | fetter |
 | flair | flare |
 | flaunt | flout |
-| flaunt | flout
-| foray | forage |
+| **foray** | forage |
 | forebear | forbear |
 | gambol | gamble |
 | hangar | hanger |
@@ -88,18 +87,19 @@
 | hoard | hoary |
 | hypothetical | hypocritical |
 | imminent | eminent |
-| immure | inure |
+| **immure** | inure |
 | indigent | indigenous |
 | industrious | illustrious |
 | ingenuous | ingenious |
 | inimical | inimitable |
 | impudent | imprudent |
 | insidious | invidious |
-| insolent | insolvent |
-| innuendo | inundate |
+| **insolent** | insolvent |
+| insolent | **indolent** |
+| **innuendo** | **inundate** |
 | inveigh | inveigle |
 | liable | labile |
-| lethargic | lethal |
+| **lethargic** | lethal |
 | levity | brevity |
 | loath | sloth |
 | liable | libel |
@@ -108,6 +108,7 @@
 | magnate | magnet |
 | malady | malaise |
 | mendicant | mendacity |
+| militate | mitigate |
 | ostentatious | obstreperous |
 | ostentatious | ostensible | 
 | pail | pale |
@@ -116,11 +117,11 @@
 | persecute | prosecute |
 | perspicacious| perspicuous |
 | ponderous | ponderable |
-| portentate | potentous |
+| potentate | portentous |
 | prophesy | prophecy |
 | querulous | garrulous |
-| rancorous | rapturous |
-| rancorous | raucous |
+| **rancorous** | **rapturous** |
+| rancorous | **raucous** |
 | rapacious | capricious |
 | rapacious | capacious |
 | rationale | rationalize |
@@ -130,19 +131,20 @@
 | salubrious | salutary |
 | sartorial | sardonic	|
 | serene | serendipity |
-| sceptic | septic |
+| **sceptic** | septic |
 | shear | sheer |
 | soporific | sporadic |
-| stationary | stationery |
+| **stationary** | **stationery** |
 | stood(stand) | stoop |
 | succinct | succumb |
 | surfeit | forfeit |
-| synoptic | hypnotic |
-| tortuous | torturous |
-| transigent | transient |
+| **synoptic** | **hypnotic** |
+| **tortuous** | torturous |
+| travail | travesty |
+| **transigent** | transient |
 | tribute | tribulation |
 | umbrage | upbraid |
-| undulate | adulate |
+| **undulate** | **adulate** |
 | vane | vain |
 | venial | venal |
 | voracious | vociferous |
